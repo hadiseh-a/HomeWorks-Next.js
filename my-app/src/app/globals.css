@@ -1,0 +1,6 @@
+.activeStyle {
+  text-decoration: "underline overline";
+}
+.noneActive{
+  text-decoration: none;
+}
